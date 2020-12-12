@@ -4,22 +4,23 @@
 
 ##### PROJECTS
 
+#### Remote Work, Aug 2020 - Out 2020
+## UX/UI Designer | Samsung
+
+- Led the design of a video course website and a marketing website for the new Samsung Chromebook.
+- Established style guide, from color palette and typography to micro-interaction and interaction state examples.
+- Collaborated with the Art Director, Creative Director, and Account Manager to ensure Samsung brand values, brand guidelines and aligned them to best usability practices. 
+- Conducted quality assurance with the development team to identify front-end improvements and to ensure all details pre-defined from the style guide.
+
+
 #### Remote Work, Feb 2020 - Jun 2020
-## UI Designer  Weekdays Mobile App
+## UI Designer  Fittcoach Mobile App
 
 - Ideated visual concepts in six sprints and designed high-fidelity prototypes for the mobile app experience.
 - Conducted competitive analysis and a design heuristics assessment to gain insights into the industry and users’ needs.
 - Designed feature components for the two facing app personas (client and fitness coach) on a constrained timeline.
 - Collaborated with the Development team to hand off user interface components via Zeplin, and provided inputs for the design system.
 - Presented design concepts to the clients with justifications and examples of micro-iteration and interaction states.
-
-#### Remote Work, Aug 2020 - Out 2020
-## UX/UI Designer | Samsung
-
-Led the design of a video course website and a marketing website for the new Samsung Chromebook.
-Established style guide, from color palette and typography to micro-interaction and interaction state examples.
-Collaborated with the Art Director, Creative Director, and Account Manager to ensure Samsung brand values, brand guidelines and aligned them to best usability practices. 
-Conducted quality assurance with the development team to identify front-end improvements and to ensure all details pre-defined from the style guide.
 
 
 #### Seattle, WA, US, Oct 2019 - Nov 2019
@@ -42,7 +43,7 @@ user testing.
 - Within our agile workflow, drove a user-centered approach, conducted a competitive analysis and a heuristics assessment for discovering insights.
 
 
-#### EXPERIENCE
+#### RELATED EXPERIENCE
 
 ### SÃO PAULO, SP, BR - Apr 2015 to Sep 2017
 ## Jr. Art Director, at Purple Cow Agency
@@ -57,63 +58,62 @@ user testing.
 ### SÃO PAULO, SP, BR - Aug 2014 to Mar 2015
 ## Art Direction Intern, at Purple Cow Agency
 
-- Design 2D layouts, GIFs, and videos for social-first creatives, emails and
-animated banners.
+- Design 2D layouts, GIFs, and videos for social-first creatives, emails and animated banners.
 - Assisted Art Director, designing mockups for social media design strategy.
 
 
 ##### SKILLS
-UI/UX Design
-Design System
-UX Research
-Mobile Design
-Wireframing
-Rapid Prototyping
+- Interaction Design
+- Micro-interaction Design
+- Visual Design
+- User Research
+- Information Architecture
+- Mobile Design
+- Wireframing
+- Rapid Prototyping
 
 
 ##### TOOLS
-Figma
-Adobe XD
-Creative Suite
-Google Docs
-Sketch
-inVision
-Zeplin
-Keynote
+- Sketch
+- Adobe Creative Suite
+- Figma
+- inVision
+- Zeplin
+- Usability Hub
+- LottieFiles
+- Google Docs
 
 
-##### LANGUAGE
-Portuguese
-English
+##### LANGUAGES
+- Portuguese
+- English
 
 ##### EDUCATION
 
-Bachelor of Communication
-and Marketing, 2011 to 2015
-SÃO PAULO, SP, BR
+## Bachelor of Communication and Marketing
+#### 2011 to 2015, SÃO PAULO, SP, BR
 Anhembi Morumbi University
 
-UX Design Immersive, 2019
-SEATTLE, WA, US
+## User Experience Design Immersive
+#### 2019, SEATTLE, WA, US
 General Assembly
 
 
 ##### INVOLVEMENT
 
-- United Nations - UN-Habitat
+### United Nations - UN-Habitat
 As a Visual Designer (2020)
 
-- Protothon 7, University of Washington
+### Protothon 7, University of Washington
 As a UX Designer Hackathon Participant (2019)
 
-- Staying Out: Celebrating Portland’s Pioneers of Pride Exhibit, AIGA
+### Staying Out: Celebrating Portland’s Pioneers of Pride Exhibit, AIGA
 As a Digital Design Artist (2019)
 
 
 ##### RECOGNITION
 
-Golden Award - Brazilian Association
-of Direct Marketing, 2016
+Golden Award - Brazilian Association of Direct Marketing, 2016
 Best Direct Marketing on Digital Campaign
 
 
