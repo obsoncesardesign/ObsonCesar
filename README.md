@@ -1,6 +1,7 @@
 # Obson Cesar
 
-> I’m UX/UI Designer based in Portland, OR | Held by Visa L2 and valid EAD.
+> I’m UX/UI Designer based in Portland, OR | Held by Visa L2.
+
 
 ## PROJECTS
 
@@ -8,7 +9,7 @@
 ##### Remote Work, Aug 2020 - Out 2020
 
 - Led the design of a video course website and a marketing website for the new Samsung Chromebook.
-- Established style guide, from color palette and typography to micro-interaction and interaction state examples.
+- Established style guide, from color palette and typography to examples of micro-interaction states and interaction.
 - Collaborated with the Art Director, Creative Director, and Account Manager to ensure Samsung brand values, brand guidelines and aligned them to best usability practices. 
 - Conducted quality assurance with the development team to identify front-end improvements and to ensure all details pre-defined from the style guide.
 
@@ -116,10 +117,11 @@ As a Digital Design Artist (2019)
 Golden Award - Brazilian Association of Direct Marketing, 2016
 Best Direct Marketing on Digital Campaign
 
-
-
+***
 
 | Portfolio | LinkedIn | Email | Phone Number |
 | -- | -- | -- | --|
 | [obsoncesar.com](https://obsoncesar.com/) | [linkedin.com/in/obsoncesar](https://www.linkedin.com/in/obsoncesar/) | hi@obsoncesar.com | (971) 270-6121 |
+
+***
 
